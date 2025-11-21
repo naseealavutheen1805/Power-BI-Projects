@@ -10,10 +10,9 @@ This Power BI project analyzes Google Play Store app data to understand what dri
 
 ## 🧹 Data Cleaning (Power Query)
 - Removed duplicates & blanks
-- Cleaned **Installs** column (removed “+”, commas → numeric)
 - Cleaned **Price** (removed `$` → numeric)
 - Standardized **Size** column and handled “Varies with device”
-- Converted **Last Updated** to date
+- Replaced values
 - Fixed data types & standardized text
 
 ## 📊 Dashboard Highlights
